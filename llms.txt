@@ -1,36 +1,30 @@
 # Open Cannabis Research Initiative
 
-> Independent, patient-led initiative seeking rigorous, reproducible cannabis research to inform patients and clinicians. PTSD is the flagship proposed research program, not the sole research interest.
+> Independent patient-led research advocacy. Proposed studies are not active trials; literature metadata is provisional and should be checked against original sources.
 
-Research proposals are not active clinical trials or established evidence of efficacy. Patient observations are hypothesis-generating. No institutional endorsement is implied. Consult original publications for scientific findings and limitations.
+## Public pages
 
-## Research and evidence
+- [Proposed clinical case report | Open Cannabis Research Initiative](https://opencannabisresearchinitiative.org/case-report.html)
+- [Partnership charter | Open Cannabis Research Initiative](https://opencannabisresearchinitiative.org/charter.html)
+- [Get involved | Open Cannabis Research Initiative](https://opencannabisresearchinitiative.org/contact.html)
+- [A clearer path to trauma recovery | Open Cannabis Research Initiative](https://opencannabisresearchinitiative.org/)
+- [Scientific literature | Open Cannabis Research Initiative](https://opencannabisresearchinitiative.org/literature.html)
+- [Research collaboration | Open Cannabis Research Initiative](https://opencannabisresearchinitiative.org/partners.html)
+- [Patient perspective | Open Cannabis Research Initiative](https://opencannabisresearchinitiative.org/perspective.html)
+- [Treatment discontinuation | Open Cannabis Research Initiative](https://opencannabisresearchinitiative.org/project-discontinuation.html)
+- [Formulation comparison | Open Cannabis Research Initiative](https://opencannabisresearchinitiative.org/project-formulations.html)
+- [Functional impairment | Open Cannabis Research Initiative](https://opencannabisresearchinitiative.org/project-impairment.html)
+- [Nightmares and sleep | Open Cannabis Research Initiative](https://opencannabisresearchinitiative.org/project-nightmares.html)
+- [Longitudinal trauma recovery | Open Cannabis Research Initiative](https://opencannabisresearchinitiative.org/project-recovery.html)
+- [Selective terpene reintroduction | Open Cannabis Research Initiative](https://opencannabisresearchinitiative.org/project-reintroduction.html)
+- [Terpene interaction screening | Open Cannabis Research Initiative](https://opencannabisresearchinitiative.org/project-terpene-screening.html)
+- [Research prospectus | Open Cannabis Research Initiative](https://opencannabisresearchinitiative.org/prospectus.html)
+- [Research prospectus](https://opencannabisresearchinitiative.org/research-prospectus.html)
+- [Research proposals | Open Cannabis Research Initiative](https://opencannabisresearchinitiative.org/research.html)
+- [Terpene evidence database | Open Cannabis Research Initiative](https://opencannabisresearchinitiative.org/terpenes.html)
 
-- [Research agenda](https://opencannabisresearchinitiative.org/research.html)
-- [Scientific literature](https://opencannabisresearchinitiative.org/literature.html)
-- [Terpene directory](https://opencannabisresearchinitiative.org/terpenes.html)
-- [Patient perspective](https://opencannabisresearchinitiative.org/perspective.html)
+## Data
 
-## Proposed PTSD studies
-
-- [Terpene interaction screening](https://opencannabisresearchinitiative.org/project-terpene-screening.html)
-- [Nightmares and sleep](https://opencannabisresearchinitiative.org/project-nightmares.html)
-- [Longitudinal trauma recovery](https://opencannabisresearchinitiative.org/project-recovery.html)
-- [Functional impairment](https://opencannabisresearchinitiative.org/project-impairment.html)
-- [Formulation comparison](https://opencannabisresearchinitiative.org/project-formulations.html)
-- [Selective terpene reintroduction](https://opencannabisresearchinitiative.org/project-reintroduction.html)
-- [Treatment discontinuation](https://opencannabisresearchinitiative.org/project-discontinuation.html)
-- [Proposed clinical case report](https://opencannabisresearchinitiative.org/case-report.html)
-
-## Collaboration
-
-- [Partnership charter](https://opencannabisresearchinitiative.org/charter.html)
-- [Research prospectus](https://opencannabisresearchinitiative.org/prospectus.html)
-- [Institutional collaboration](https://opencannabisresearchinitiative.org/partners.html)
-- [Contact](https://opencannabisresearchinitiative.org/contact.html)
-
-## Optional
-
-- [Homepage](https://opencannabisresearchinitiative.org/)
-- [Printable research prospectus](https://opencannabisresearchinitiative.org/research-prospectus.html)
-- [Sitemap](https://opencannabisresearchinitiative.org/sitemap.xml)
+- [Literature JSON](https://opencannabisresearchinitiative.org/literature.json)
+- [Literature CSV](https://opencannabisresearchinitiative.org/literature.csv)
+- [Full text](https://opencannabisresearchinitiative.org/llms-full.txt)
